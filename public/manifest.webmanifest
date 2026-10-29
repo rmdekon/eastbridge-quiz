@@ -1,0 +1,37 @@
+{
+  "name": "Eastbridge Quiz Arcade",
+  "short_name": "EB Arcade",
+  "description": "Quizzes and 3D arcade breaks for Eastbridge International School, Accra.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FBF8F1",
+  "theme_color": "#1B3A6B",
+  "categories": ["education", "games"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    { "name": "Join a live game", "url": "/join", "description": "Enter a game PIN" },
+    { "name": "My tasks", "url": "/tasks", "description": "Learner assignments" },
+    { "name": "Quiz library", "url": "/teacher/library", "description": "Teacher quizzes" }
+  ]
+}

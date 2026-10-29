@@ -1,0 +1,15 @@
+question,option_a,option_b,option_c,option_d,correct,time_limit,points,image_url,image_file,image_alt,explanation,topic
+Which fraction of the shape is shaded if 3 of 8 equal parts are shaded?,3/8,5/8,3/5,8/3,A,20,1000,,,,Three out of eight equal parts means the fraction 3/8.,Fractions
+What is 7 x 8?,54,56,63,64,B,15,1000,,,,7 x 8 = 56. A quick check is 7 x 8 = 7 x 4 x 2 = 28 x 2 = 56.,Multiplication
+A triangle has three sides. True or false?,True,False,,,A,10,500,,,,A triangle always has exactly three straight sides.,Shapes
+Which unit would you use to measure the mass of a bag of rice?,Litres,Metres,Kilograms,Seconds,C,20,1000,,,,Mass is measured in kilograms (kg); litres measure volume and metres length.,Measurement
+Which organelle controls what enters and leaves a plant cell?,Cell wall,Cell membrane,Nucleus,Chloroplast,B,20,1000,,,,The cell membrane is selectively permeable and controls entry and exit of substances.,Cells
+What gas do plants take in for photosynthesis?,Oxygen,Nitrogen,Carbon dioxide,Hydrogen,C,20,1000,,,,Plants take in carbon dioxide and release oxygen during photosynthesis.,Photosynthesis
+What force pulls a dropped ball towards the ground?,Magnetism,Friction,Gravity,Air resistance,C,15,1000,,,,Gravity attracts masses towards each other; on Earth it pulls objects downwards.,Forces
+"In the particle model, which state has particles that are far apart and move freely?",Solid,Liquid,Gas,Plasma,C,20,1000,,,,Gas particles are widely spaced and move randomly at high speed.,Matter
+"In the CIA triad, which letter stands for keeping data accurate and unaltered?",Confidentiality,Integrity,Availability,Identity,B,25,1200,,,,"Integrity means data is complete, accurate and has not been tampered with.",CIA triad
+Which letter of the CIA triad is protected by regular backups and uptime?,Confidentiality,Integrity,Availability,Authentication,C,25,1200,,,,Availability ensures authorised users can access systems and data when needed.,CIA triad
+Which type of malware locks files and demands payment?,Ransomware,Adware,Spyware,Rootkit,A,30,1200,,,,Ransomware encrypts files and demands payment for the decryption key.,Malware
+Which of these is the strongest password?,eastbridge,Password2026,Tr0ub4dor&3,12345678,C,25,1200,,,,Long mixed-character passphrases resist brute-force and dictionary attacks.,Passwords
+What should you do with an unexpected email asking you to confirm your password?,Reply with your password,Open the link and sign in,Report it and delete it,Forward it to friends,C,25,1200,,,,Unexpected credential requests are almost always phishing; report and delete.,Phishing
+What does the 3-2-1 backup rule mean?,3 copies 2 media 1 off-site,3 passwords 2 devices 1 user,3 admins 2 servers 1 router,3 scans 2 patches 1 reboot,A,30,1200,,,,"Three copies of data, on two different media, with one copy off-site.",Backups
